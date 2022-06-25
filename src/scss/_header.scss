@@ -1,0 +1,8 @@
+.header {
+    background-image: linear-gradient(90deg, $color4 10.63%, $color1 88.13%);
+    color: $color3;
+   
+    @extend %content;
+
+    
+}

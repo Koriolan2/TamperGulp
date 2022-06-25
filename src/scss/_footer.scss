@@ -1,0 +1,6 @@
+.footer {
+
+    background-color: $color1;
+    @extend %content;
+    min-height: 0;
+}
